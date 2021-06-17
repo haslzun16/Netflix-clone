@@ -7,8 +7,7 @@ import Banner from "./Banner";
 
 function App() {
   return (
-    <div className="App">
-      {/* nav bar */}
+    <div className="app">
       <Nav />
       <Banner />
 
